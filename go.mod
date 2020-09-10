@@ -2,6 +2,8 @@ module github.com/chaosblade-io/chaosblade
 
 go 1.13
 
+replace github.com/chaosblade-io/chaosblade-exec-os v0.6.1-0.20200703070815-1cc9206637b7 => github.com/stutiredboy/chaosblade-exec-os v0.6.1-0.20200908161039-79406195de07
+
 require (
 	github.com/chaosblade-io/chaosblade-exec-docker v0.6.0
 	github.com/chaosblade-io/chaosblade-exec-os v0.6.1-0.20200703070815-1cc9206637b7
