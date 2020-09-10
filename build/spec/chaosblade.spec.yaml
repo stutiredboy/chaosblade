@@ -2424,3 +2424,23 @@ items:
       noArgs: false
       required: true
     required: true
+- target: time
+  shortDesc: time experiment
+  longDesc: time experiment, for example set OS time to a wrong value
+  example: time set --datetime='2020-09-09 16:48:00'
+  actions:
+  - action: set
+    shortDesc: time set
+    longDesc: set OS time to specific date time
+    flags:
+    - name: datetime
+      desc: datetime to set, such as '2020-09-09 16:53:00'
+      noArgs: false
+      required: true
+      requiredWhenDestroyed: false
+    - name: timeout
+      desc: set timeout for experiment
+      noArgs: false
+      required: false
+      requiredWhenDestroyed: false
+  scope: host
