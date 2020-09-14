@@ -818,6 +818,10 @@ github.com/stretchr/testify v1.4.0 h1:2E4SXV/wtOkTonXsotYi4li6zVWxYlZuYNCXe9XRJy
 github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81PSLYec5m4=
 github.com/stutiredboy/chaosblade-exec-os v0.6.1-0.20200914041054-c7150bb198d5 h1:A5pjq+FyiOGaP9BjRj2WWyp9RCxRtNzjIMlEtZINNC8=
 github.com/stutiredboy/chaosblade-exec-os v0.6.1-0.20200914041054-c7150bb198d5/go.mod h1:bIgPH7EjFMj5bzpHdiGUJgXd5P4+D33asc67BUIW/3w=
+github.com/stutiredboy/chaosblade-exec-os v0.6.1-0.20200914083127-e7bd49a977ae h1:svHVAEFmixWD60jG3jzUdf6JAgij8BKKqHOqatq0t7c=
+github.com/stutiredboy/chaosblade-exec-os v0.6.1-0.20200914083127-e7bd49a977ae/go.mod h1:bIgPH7EjFMj5bzpHdiGUJgXd5P4+D33asc67BUIW/3w=
+github.com/stutiredboy/chaosblade-exec-os v0.6.1-0.20200914093721-5dcda64457aa h1:bE5daFExXSjV4YHeUq4sWEpZb/1amE5ivCD79kVjNaE=
+github.com/stutiredboy/chaosblade-exec-os v0.6.1-0.20200914093721-5dcda64457aa/go.mod h1:bIgPH7EjFMj5bzpHdiGUJgXd5P4+D33asc67BUIW/3w=
 github.com/syndtr/gocapability v0.0.0-20170704070218-db04d3cc01c8/go.mod h1:hkRG7XYTFWNJGYcbNJQlaLq0fg1yr4J4t/NcTQtrfww=
 github.com/thanos-io/thanos v0.11.0/go.mod h1:N/Yes7J68KqvmY+xM6J5CJqEvWIvKSR5sqGtmuD6wDc=
 github.com/tidwall/pretty v0.0.0-20180105212114-65a9db5fad51/go.mod h1:XNkn88O1ChpSDQmQeStsy+sBenx6DDtFZJxhVysOjyk=
